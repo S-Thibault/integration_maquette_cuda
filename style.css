@@ -67,12 +67,46 @@ margin-bottom: 8rem;
   width: 100px;
 }
 #paragraph3{
-  background-color: #e7f1f8;
+  background-color: #dcdcdc;
   padding: 90px 30px 90px 30px;
 }
 #descrizioneP3{
   font-size: 30px;
   margin: 20px 0px 90px 0px;
+}
+#paragraph4{
+  background-color: #ffffff;
+  padding: 90px 30px 90px 30px;
+}
+/* SOCIAL MEDIA BUTTONS */
+
+.container img{
+  margin: 0px 10px 0px 4px;
+  border-radius: 50%;
+}
+#anne{
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+#kate{
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+#olivia{
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+#ashley{
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
 }
 #paragraph4{
   background-color: #e7f1f8;
@@ -252,6 +286,7 @@ h3{
 
 #portfolio img {
   width: 32rem;
+  border-radius: 0px !important;
 }
 
 .mosaique {

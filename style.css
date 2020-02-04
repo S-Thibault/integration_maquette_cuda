@@ -1,3 +1,37 @@
+/* Ismail */
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:700,900&display=swap');
+
+body{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'titillium Web';
+}
+header{
+  background-color: #87509c;
+  padding: 0px 100px 0px 100px !important;
+  font-family: 'titillium Web' !important;
+}
+#home{
+  background-color: #643a79;
+  border-radius: 5px;
+}
+.mb-0{
+  margin-top: 150px !important;
+
+}
+.btn{
+  border-radius: 7px !important;
+}
+#button1{
+  width: 300px !important;
+  height: 90px !important;
+  margin-top: 50px !important;
+  background-color: #eb7d4b !important;
+  border-style: none !important;
+}
+
+/* Sylvain */
+
 #portfolio{
   min-height:100%;
   background-color: #ffdc98;

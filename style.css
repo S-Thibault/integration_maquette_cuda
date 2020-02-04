@@ -5,7 +5,6 @@ body{
   padding: 0px;
   font-family: 'titillium Web';
 }
-
 header{
   background-color: #87509c;
   padding: 0px 100px 0px 100px !important;
@@ -17,12 +16,11 @@ header{
 }
 .mb-0{
   margin-top: 150px !important;
-}
 
+}
 .btn{
   border-radius: 7px !important;
 }
-
 #button1{
   width: 300px !important;
   height: 90px !important;

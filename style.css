@@ -29,7 +29,7 @@ header{
   border-radius: 7px !important;
 }
 #button1{
-  margin-top: 50px;
+  margin-top: 100px;
   width: 16rem;
   height: 4rem;
   background-color: #eb7d4b;
@@ -80,7 +80,7 @@ margin-bottom: 8rem;
 }
 /* SOCIAL MEDIA BUTTONS */
 
-.container img{
+.socialicon{
   margin: 0px 10px 0px 4px;
   border-radius: 50%;
 }
@@ -199,19 +199,19 @@ margin-bottom: 8rem;
     border-color: #eb7d4b;
 }
 .progress.yellow .progress-left .progress-bar{
-    animation: loading-3 1s linear forwards 1.8s;
+    animation: loading-1.7 1.5s linear forwards 1.8s;
 }
 .progress.pink .progress-bar{
     border-color: #d74680;
 }
 .progress.pink .progress-left .progress-bar{
-    animation: loading-4 0.4s linear forwards 1.8s;
+    animation: loading-3 0.4s linear forwards 1.8s;
 }
 .progress.green .progress-bar{
     border-color: #15c7a8;
 }
 .progress.green .progress-left .progress-bar{
-    animation: loading-5 1.s linear forwards 1.8s;
+    animation: loading-3.7 1.5s linear forwards 1.8s;
 }
 @keyframes loading-1{
     0%{

@@ -72,3 +72,56 @@ margin-bottom: 8rem;
 .btn-category{
   width: 6rem;
 }
+
+#people {
+  min-height: 100%;
+  background-color: #d74681;
+}
+
+#people img {
+  width: 5rem;
+}
+
+#people .lisere{
+  width: 6rem;
+  border: 0.15rem solid #bc396d;
+}
+
+#people .row {
+  text-align: left;
+  margin-bottom: 0rem;
+}
+
+#touch {
+min-height: 100%;
+background-color: #3c5499
+}
+
+#touch .lisere{
+  width: 6rem;
+  border: 0.15rem solid #273a71;
+}
+
+#touch .btn-more{
+  width: 16rem;
+  background-color: #30bae7;
+  color: #FFF;
+  text-transform: uppercase;
+  box-shadow: 0px 4px #299ec5;
+margin-bottom: 8rem;
+}
+
+#touch .btn-more:hover{
+  background-color: #299ec5;
+  color: #FFF;
+}
+
+#social {
+  min-height: 100%;
+  background-color: #344b8e;
+}
+
+li {
+margin: auto;
+margin-bottom: 2rem;
+}

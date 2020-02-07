@@ -1,38 +1,41 @@
+/*ismail*/
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web:700,900&display=swap');
 
-body{
+body {
   margin: 0px;
   padding: 0px;
   font-family: 'titillium Web';
 }
-header{
+
+header {
   background-color: #87509c;
   padding: 0px 100px 0px 100px !important;
   font-family: 'titillium Web' !important;
 }
-#home{
+
+#home {
+  border-radius: 5px;
+}
+
+#home:hover {
+  background-color: #643a79;
+}
+
+.nav-item:hover {
   background-color: #643a79;
   border-radius: 5px;
 }
-.mb-0{
-  margin-top: 150px !important;
 
+.mb-0 {
+  margin-top: 150px !important;
 }
-.btn{
+
+.btn {
   border-radius: 7px !important;
 }
-#button1{
-  width: 300px !important;
-  height: 90px !important;
-  margin-top: 50px !important;
-  background-color: #eb7d4b !important;
-  border-style: none !important;
-}
 
-/* Sylvain */
-
-#portfolio{
-  min-height:100%;
+#portfolio {
+  min-height: 100%;
   background-color: #ffdc98;
 }
 
@@ -45,83 +48,74 @@ header{
   margin-bottom: 2rem;
 }
 
-.uppercase{
+.uppercase {
   margin-top: 1rem;
   text-transform: uppercase;
 }
 
-.btn-more{
+.btn-more {
   width: 16rem;
   background-color: #17c1a4;
   color: #FFF;
   text-transform: uppercase;
   box-shadow: 0px 4px #009d7c;
-margin-bottom: 8rem;
+  margin-bottom: 8rem;
 }
 
-.btn-more:hover{
+.btn-more:hover {
   background-color: #009d7c;
   color: #FFF;
 }
 
-.lisere{
+.lisere {
   width: 6rem;
   border: 0.15rem solid #e5c27e;
 }
 
-.btn-category{
+.btn-category {
   width: 6rem;
 }
 
 #people {
-  min-height: 100%;
-  background-color: #d74681;
+  background: #d74680;
 }
 
 #people img {
-  width: 5rem;
+  width: 4rem;
 }
 
-#people .lisere{
+#people .lisere {
   width: 6rem;
-  border: 0.15rem solid #bc396d;
-}
-
-#people .row {
-  text-align: left;
-  margin-bottom: 0rem;
+  border: 0.15rem solid #b73c6d;
 }
 
 #touch {
-min-height: 100%;
-background-color: #3c5499
+  background: #3c5499;
 }
 
-#touch .lisere{
+#touch .lisere {
   width: 6rem;
-  border: 0.15rem solid #273a71;
+  border: 0.15rem solid #273a71
 }
 
-#touch .btn-more{
+#touch .btn-more {
   width: 16rem;
   background-color: #30bae7;
   color: #FFF;
   text-transform: uppercase;
   box-shadow: 0px 4px #299ec5;
-margin-bottom: 8rem;
+  margin-bottom: 8rem;
 }
 
-#touch .btn-more:hover{
+#touch .btn-more:hover {
   background-color: #299ec5;
   color: #FFF;
 }
 
 #social {
-  min-height: 100%;
-  background-color: #344b8e;
+  background: #344b8e
 }
 
 li {
-margin: auto;
-margin-bottom: 2rem;
+  width: 9rem;
 }

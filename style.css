@@ -341,8 +341,8 @@ h3{
 
 .lisere {
   width: 6rem;
-  border: 0.15rem solid #273a71;
-  background: #273a71;
+  border: 0.15rem solid #8a8a5c;
+  background: #8a8a5c;
 }
 
 #touch .btn-more {
@@ -365,4 +365,18 @@ h3{
 
 li {
   width: 9rem;
+}
+.textP5{
+  font-size: 30px;
+  text-align: center;
+}
+.textP6{
+  font-size: 30px;
+  text-align: center;
+  color: #ffffff;
+}
+.textP7{
+  font-size: 30px;
+  text-align: center;
+  color: #ffffff;
 }
